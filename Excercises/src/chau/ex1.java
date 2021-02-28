@@ -9,7 +9,8 @@ public class ex1 {
 		double num2 = scanner.nextDouble();
 		System.out.println("the sum is: "+ (num1+num2));
 		System.out.println("the difference is: "+ (num1 -num2));
-		
+		System.out.print("the product is: "+(num1*num2));
+		System.out.print("the quotient is: "+(num1/num2));
 	}
 
 }
