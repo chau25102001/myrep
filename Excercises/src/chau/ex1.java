@@ -13,4 +13,4 @@ public class ex1 {
 		System.out.print("the quotient is: "+(num1/num2));
 	}
 
-}
+}//dj
